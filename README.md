@@ -1,7 +1,7 @@
 <h1>Overwatch Data Analysis Project</h1>
 A Personal Data Analysis Project of my performance in Overwatch! 
 
-<h2><b>About<b></h2>
+<h2><b>About</b></h2>
   This is my data analysis project of my performance in Overwatch. Last year, I started this as a neat project that 
   I could do in an attempt to learn more about data science and Machine Learning. So I decided to manually collect data
   that I can do an analysis with. Unfortunately, the data is incomplete as I stopped collecting the data in the middle
